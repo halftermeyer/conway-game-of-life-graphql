@@ -1,4 +1,4 @@
-# Conway’s Game of Life with GraphQL for Neo4j AuraDB Beta
+# Conway’s Game of Life with GraphQL for Neo4j AuraDB Beta test
 
 This repository contains an implementation of Conway’s Game of Life using GraphQL and Neo4j AuraDB Beta, with a browser-based UI. It supports finite, toroidal, and infinite grids, as well as custom rules.
 
